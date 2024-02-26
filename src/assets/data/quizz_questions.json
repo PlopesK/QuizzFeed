@@ -46,10 +46,32 @@
         { "id": 1, "name": "O Terrivel", "alias": "A" },
         { "id": 2, "name": "Amigo da vizinhança", "alias": "B" }
       ]
+    },
+    {
+      "id": 6,
+      "question": "Qual o seu lema ?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Não importa o que ou quem, eu sempre alcançarei meu objetivo!",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Com grandes poderes, existem grandes responsabilidades!",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Contanto que eu saia ganhando, não me importo com o que tenha que fazer!",
+          "alias": "A"
+        },
+        { "id": 4, "name": "Eu não preciso de um lema...", "alias": "A" }
+      ]
     }
   ],
   "results": {
-    "A": "Você muito provavelmente seria um super Vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você muito provavelmente seria um Super Vilão!",
+    "B": "Você muito provavelmente seria um Super Herói!"
   }
 }
